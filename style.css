@@ -1,0 +1,23 @@
+p.blau{
+    color: blue;
+}
+span.rojo{
+    color: red;
+}
+p.verde{
+    color: green;
+}
+span.rosa{
+    color: pink;
+}
+span.euros{
+    /* esto sirve para poner la letra en cursiva */
+    font-style: oblique;
+}
+span.bold{
+    /* para ponerlo en negrita */
+    font-weight: bold;
+}
+span.pequeño{
+    font-size: small;
+}
